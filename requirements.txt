@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tf-nightly
+transformers
+optuna
+langchain
+openai
+streamlit
+joblib
+drain3
+loguru

@@ -1,0 +1,20 @@
+cleaned_log,label
+Application shutdown completed successfully,normal
+Backup process finished without errors,normal
+Unhandled exception occurred during file processing,failure
+Backup process finished without errors,normal
+Crash in rendering engine: Null pointer dereference,failure
+Segmentation fault detected in module,failure
+Backup process finished without errors,normal
+Fatal error: Stack buffer overflow,failure
+Service crash: Out of memory exception,failure
+Process terminated due to access violation,failure
+Unhandled exception occurred during file processing,failure
+Database connection timeout during query execution,failure
+Backup process finished without errors,normal
+Fatal error: Stack buffer overflow,failure
+Backup process finished without errors,normal
+Memory allocation failed during heap operation,failure
+Service crash: Out of memory exception,failure
+Configuration reloaded without issues,normal
+Periodic maintenance task completed,normal
